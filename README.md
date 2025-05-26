@@ -42,3 +42,6 @@ To build a predictive model that forecasts stock prices of two leading Indian IT
 ✅ Conclusion
 
 Based on model predictions, TCS shows more stable and consistent growth trends, making it potentially a safer long-term investment compared to Infosys — especially according to the Random Forest model.
+
+## ⚠️ Disclaimer
+This project is for educational purposes only. Stock market investments are subject to market risks. Please do not make investment decisions based solely on this model. Always do your own research or consult a financial advisor before investing.
